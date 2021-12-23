@@ -1,6 +1,6 @@
-
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://i.imgur.com/aAGjt7z.jpg.gif" alt="GIF" width="250" height="200"/>
+        <img src="https://i.imgur.com/aAGjt7z.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
@@ -14,11 +14,11 @@
 <a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SPlRlT-SER"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-SER/SPlRlT-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/SPlRlT-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPlRlT-SER">SPlRlT-SER</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/SPlRlT-SER">SPlRlT-SER</a> to mak
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-SER&show_icons=true&theme=dark&locale=en" alt="SPlRlT-SER" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-YT&show_icons=true&theme=dark&locale=en" alt="SPlRlT-YT" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-SER&theme=dark" alt="SPlRlT-SER" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-YT&theme=dark" alt="SPlRlT-YT" /></p>
 </p>
 
 
@@ -70,7 +70,7 @@ Click SPlRlT-SER logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SPlRlT-SERcreator/SPlRlT-SER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-SER/SPlRlT-SER.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPlRlT-SER.git)
      </div>
 <br>
 <br >
@@ -90,7 +90,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-SER/SPlRlT-SER
+$ git clone https://github.com/SPlRlT-YT/SPlRlT-SER
 $ cd SPlRlT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -100,7 +100,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-SER/SPlRlT-SER
+$ git clone https://github.com/SPlRlT-YT/SPlRlT-SER
 $ cd SPlRlT-SER
 $ chmod +x *
 $ npm i
@@ -121,9 +121,9 @@ By establishing the SPlRlT-SER, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![SPlRlT-SER](https://github.com/SPlRlT-SER.png?size=100)](https://github.com/SPlRlT-SER) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/SPlRlT-SER) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/SPlRlT-SER/Raganork)
+[Ameer Suhail](https://github.com/SPlRlT-YT) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
