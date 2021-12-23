@@ -12,15 +12,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
 *Creator number : wa.me/18052196558?text=Hi%20splrlt%20ser.%20*
 
-*YouTube  my  : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA*
+*subscribe  my channel  : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA*
 
 *Githublink (Setup)  :    https://github.com/SPlRlT-YT/SPlRlT-SER*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads :   https://github.com/SPlRlT-YT/SPlRlT-SER/tree/master/uploads*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : https://github.com/SPlRlT-YT/SPlRlT-SER/tree/master/sticker*
 
-*My YouTube : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA* 
+*My channel : https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA* 
 
 *For More Updates Subscribe The Channel ☝*
 `}) 
