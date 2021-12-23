@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Asena session changed! Type your SPlRlT-SER code here.",
+            "description": "Asena session changed! Type your SPlRlT code here.",
             "required": true
         },
         "SUDO": {
