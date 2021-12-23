@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![SPlRlT-YT](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SPlRlT-YT+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![SPlRlT-SER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SPlRlT-SER+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,11 +14,11 @@
 <a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-YT/SPlRlT-YT?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-SER"><img title="Author" src="https://img.shields.io/badge/Author-SPlRlT-SER/SPlRlT-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make it public
+Project created by <a href="https://github.com/SPlRlT-SER">SPlRlT-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-YT&show_icons=true&theme=dark&locale=en" alt="SPlRlT-YT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-SER&show_icons=true&theme=dark&locale=en" alt="SPlRlT-SER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-YT&theme=dark" alt="SPlRlT-YT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-SER&theme=dark" alt="SPlRlT-SER" /></p>
 </p>
 
 
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click SPlRlT-YT logo to Join Support Group 2👇
+Click SPlRlT-SER logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,9 +68,9 @@ Click SPlRlT-YT logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SPlRlT-YTcreator/SPlRlT-YT-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SPlRlT-SERcreator/SPlRlT-SER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPlRlT-YT.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-SER/SPlRlT-SER.git)
      </div>
 <br>
 <br >
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/SPlRlT-YT
-$ cd SPlRlT-YT
+$ git clone https://github.com/SPlRlT-SER/SPlRlT-SER
+$ cd SPlRlT-SER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/SPlRlT-YT
-$ cd SPlRlT-YT
+$ git clone https://github.com/SPlRlT-SER/SPlRlT-SER
+$ cd SPlRlT-SER
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,16 +114,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, SPlRlT-YT executives do not accept responsibility.
-By establishing the SPlRlT-YT, you are deemed to have accepted these responsibilities.
+Absolutely, SPlRlT-SER executives do not accept responsibility.
+By establishing the SPlRlT-SER, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![SPlRlT-YT](https://github.com/SPlRlT-YT.png?size=100)](https://github.com/SPlRlT-YT) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![SPlRlT-SER](https://github.com/SPlRlT-SER.png?size=100)](https://github.com/SPlRlT-SER) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/SPlRlT-YT) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/SPlRlT-SER) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/SPlRlT-SER/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
