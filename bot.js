@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *SPlRlT-SER ERROR FOUND!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw \n Report errors\njoin with +91 \n https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *SPlRlT SER ERROR FOUND!* ~______~*' +
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCBv1Z1zkOmdGeWU2QRdYBnA-6-LBqBbWKw \n Report errors\njoin with +91 \n https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU``` ' 
                                     , MessageType.text);
                             }
                         }
