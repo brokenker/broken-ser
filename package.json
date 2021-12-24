@@ -1,14 +1,14 @@
 {
-  "name": "Pikachu-Bot",
+  "name": "SPlRlT SER-Bot",
   "version": "2.0.0",
-  "description": "Pikachu whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./pikachu/bot.js",
+  "description": "SPlRlT SER whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./SPlRlT SER/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ameer-kallumthodi/pikachu.git"
+    "url": "git+https://github.com/SPlRlT-YT/SPlRlT SER.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ameer-kallumthodi/pikachu/issues"
+    "url": "https://github.com/SPlRlT-YT/SPlRlT SER/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
