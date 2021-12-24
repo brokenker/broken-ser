@@ -221,9 +221,9 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```SPlRlT SER Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*SPlRlT SER UPDATED 🤠✅*",
+            "UPDATED": "*SPlRlT SER UPDATED✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated SPlRlT SER😍*",
-            "AFTER_UPDATE": "*SPlRlT SER Restarting😎*"
+            "AFTER_UPDATE": "*spirit ser Restarting😎*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
