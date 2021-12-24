@@ -7,7 +7,7 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/aAGjt7z.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/qdkhgpq.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*SPlRlT SER bot created by SPlRlT *
 *Creator number : wa.me/18052196558?text=Hi%20splrlt%20ser.%20*
