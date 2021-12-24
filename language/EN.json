@@ -230,7 +230,7 @@
             "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather New Delhi```",
             "LOCATION": "Location",
             "LAT": "Lattitude",
-            SPlRlT YT"LONG": "Longitude",
+            "LONG": "Longitude",
             "TEMP": "Temperature",
             "DESC": "Description",
             "FEEL": "Feels Like",
