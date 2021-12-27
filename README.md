@@ -121,7 +121,7 @@ By establishing the SPlRlT-SER, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://i.imgur.com/itWIb9t.jpg?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://i.imgur.com/itWIb9t.jpg?size=100)](https://github.com/SPlRlT-YT) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [Ameer Suhail](https://github.com/ameer-kallumthodi) | [SPlRlT  ](https://github.com/SPlRlT-YT) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
