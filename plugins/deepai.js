@@ -1,5 +1,5 @@
 /* Codded by @phaticusthiccy
-re edited by afnanplk
+re edited by SPlRlT-YT
 */
 
 const Asena = require('../events');
