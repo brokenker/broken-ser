@@ -1,5 +1,5 @@
 /*
-# Copyright (C) 2020 farhan-dqz
+# Copyright (C) 2020 SPlRlT-YT
 */
 
 
