@@ -1,4 +1,4 @@
-/*codded by ameer-kallumthodi
+/*codded by SPlRlT-YT
 */
 
 const Asena = require('../events');
