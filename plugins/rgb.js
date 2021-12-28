@@ -1,4 +1,4 @@
-/* # Exclusively from RAVANA
+/* # Exclusively from
 */
 
 const Asena = require('../events');
