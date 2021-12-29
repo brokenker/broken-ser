@@ -5,16 +5,16 @@
 
 <div align="center">
 
-## [![SPlRlT-SER](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SPlRlT-SER+WA+Bot+repo;Created+by+SPlRlT+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Spirit-ser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Spirit-ser+WA+Bot+repo;Created+by+Spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="SPlRlT" src="https://img.shields.io/badge/SPlRlT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Spirit" src="https://img.shields.io/badge/SPlRlT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="SPlRlT" src="-SPlRlT-YT/SPlRlT-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/SPlRlT-YT"><img title="SPlRlT" src="-SPlRlT-YT/Spirit-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -70,7 +70,7 @@ Click SPlRlT SER BOT logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPlRlT-SER.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/Spirit-ser.git)
      </div>
 <br>
 <br >
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/SPlRlT-SER
-$ cd SPlRlT-SER
+$ git clone https://github.com/SPlRlT-YT/Spirit-ser
+$ cd Spirit-ser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/SPlRlT-SER
-$ cd SPlRlT-SER
+$ git clone https://github.com/SPlRlT-YT/Spirit-ser
+$ cd Spirit-ser
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,8 +114,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, SPlRlT-SER executives do not accept responsibility.
-By establishing the SPlRlT-SER, you are deemed to have accepted these responsibilities.
+Absolutely, Spirit-ser executives do not accept responsibility.
+By establishing the Spirit-ser, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
