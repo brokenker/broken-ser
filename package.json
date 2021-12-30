@@ -1,14 +1,14 @@
 {
-  "name": "SPlRlT-SER-Bot",
+  "name": "Spirit-ser-Bot",
   "version": "2.0.0",
-  "description": "SPlRlT-SER whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./SPlRlT-SER/bot.js",
+  "description": "Spirit-ser whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./Spirit-ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SPlRlT-YT/SPlRlT-SER.git"
+    "url": "git+https://github.com/SPlRlT-YT/Spirit-ser.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SPlRlT-YT/SPlRlT-SER/issues"
+    "url": "https://github.com/SPlRlT-YT/Spirit-ser/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
