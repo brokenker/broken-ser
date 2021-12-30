@@ -26,6 +26,10 @@
             "required": false,
             "value": "31996800"
          },
+         "BOT_NAME": {
+            "description": "Enter Your Bot Name Here.",
+            "required": true
+         },
          "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
