@@ -216,13 +216,13 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*SPlRlT SER completely up-to-date💝*",
-            "NEW_UPDATE": "*SPlRlT SER Update Available*\n\n *type .update now before updating.🙂* \n *Ask support group and update☺️* ```https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU \n\nChanges:\n```",
+            "UPDATE": "*Spirit ser completely up-to-date💝*",
+            "NEW_UPDATE": "*Spirit ser Update Available*\n\n *type .update now before updating.🙂* \n *Ask support group and update☺️* ```https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*SPlRlT SER UPDATED✅*",
-            "UPDATED_LOCAL": "*✅ Successfully Updated SPlRlT SER😍*",
+            "UPDATED": "*Spirit ser UPDATED✅*",
+            "UPDATED_LOCAL": "*✅ Successfully Updated Spirit ser😍*",
             "AFTER_UPDATE": "*spirit ser Restarting😎*"
         },
         "weather": {
