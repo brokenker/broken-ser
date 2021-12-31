@@ -121,9 +121,9 @@ By establishing the broken-ser, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://i.imgur.com/1kPfX1n.jpg?size=100)](https://github.com/brokenker) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![broken-ser](https://i.imgur.com/AlO2bU5.jpeg.png?size=100)](https://i.imgur.com/AlO2bU5.jpeg) | [![saidalisaid2](https://i.imgur.com/1kPfX1n.jpg?size=100)](https://github.com/brokenker) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [SPlRlT  ](https://github.com/brokenker) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[broken](https://github.com/ameer-kallumthodi) | [SPlRlT  ](https://github.com/brokenker) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
