@@ -1,14 +1,14 @@
 {
-  "name": "Angelina-ofc",
+  "name": "broken-ser",
   "version": "2.0.0",
-  "description": "Broken-ser whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "broken-ser whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./Spirit-ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brokenker/Spirit-ser"
+    "url": "git+https://github.com/brokenker/broken-ser"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Ameer suhail / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/SPlRlT-YT/Spirit-ser/issues"
+    "url": "https://github.com/brokenker/broken-ser/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
