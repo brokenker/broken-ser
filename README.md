@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click SPlRlT SER BOT logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://i.imgur.com/5bSaBdj.jpg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://i.imgur.com/dFMkrl2.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
