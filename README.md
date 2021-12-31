@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="Spirit" src="https://img.shields.io/badge/SPlRlT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="broken" src="https://img.shields.io/badge/broken-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/brokenker"><img title="SPlRlT" src="-brokenker/broken-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
