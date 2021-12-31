@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Spirit-ser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Spirit-ser+WA+Bot+repo;Created+by+Spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Spirit-ser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+broken-set+WA+Bot+repo;Created+by+broken+and+Spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
