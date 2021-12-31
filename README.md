@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![Spirit-ser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+broken-set+WA+Bot+repo;Created+by+broken+and+Spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![broken-ser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+broken-set+WA+Bot+repo;Created+by+broken+and+Spirit+;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,11 +14,11 @@
 <a href="#"><img title="Spirit" src="https://img.shields.io/badge/SPlRlT-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/SPlRlT-YT"><img title="SPlRlT" src="-SPlRlT-YT/Spirit-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/brokenker"><img title="SPlRlT" src="-brokenker/broken-ser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make it public
+Project created by <a href="https://github.com/brokenker">brokenker</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/SPlRlT-YT">SPlRlT-YT</a> to make 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SPlRlT-YT&show_icons=true&theme=dark&locale=en" alt="SPlRlT-YT" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brokenker&show_icons=true&theme=dark&locale=en" alt="brokenker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SPlRlT-YT&theme=dark" alt="SPlRlT-YT" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brokenker&theme=dark" alt="brokenker" /></p>
 </p>
 
 
@@ -70,7 +70,7 @@ Click SPlRlT SER BOT logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/Spirit-ser.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/brokenker/broken-ser.git)
      </div>
 <br>
 <br >
@@ -90,8 +90,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/SPlRlT-YT/Spirit-ser
-$ cd Spirit-ser
+$ git clone https://github.com/brokenker/broken-ser
+$ cd broken-ser
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -100,8 +100,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/SPlRlT-YT/Spirit-ser
-$ cd Spirit-ser
+$ git clone https://github.com/brokenker/broken-ser
+$ cd broken-ser
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -114,16 +114,16 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Spirit-ser executives do not accept responsibility.
-By establishing the Spirit-ser, you are deemed to have accepted these responsibilities.
+Absolutely, broken-ser executives do not accept responsibility.
+By establishing the broken-ser, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://i.imgur.com/1kPfX1n.jpg?size=100)](https://github.com/SPlRlT-YT) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://i.imgur.com/1kPfX1n.jpg?size=100)](https://github.com/brokenker) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [SPlRlT  ](https://github.com/SPlRlT-YT) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/ameer-kallumthodi) | [SPlRlT  ](https://github.com/brokenker) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
